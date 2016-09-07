@@ -1,2 +1,2 @@
-# SzakdolgozatWHF81X
+# Szakdolgozat_WHF81X
 Diploma dolgozathoz tartozó Android program
